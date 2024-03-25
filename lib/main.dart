@@ -96,7 +96,7 @@ class MyApp extends StatelessWidget {
                       size: 40.0,
                     ),
                     title: Text(
-                      'Github.com/hekmat2222',
+                      'github.com/hekmat2222',
                       style: TextStyle(
                         color: Colors.black,
                         fontSize: 20.0,
